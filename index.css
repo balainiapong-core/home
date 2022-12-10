@@ -5,11 +5,6 @@
   font-weight: 400;
   font-style: normal;
 }
-@media (max-width: 600px) {
-  .box-desc {
-    display: none;
-  }
-}
 * {
   font-weight: bolder !important;
 }
